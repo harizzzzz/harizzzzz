@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @harizzzzz
-- 👀 I’m interested in you.
-- 🌱 I’m currently learning about you.
-- 💞️ I’m looking to collaborate with you about you
-- 📫 How to reach me calling me
+- Part-time dev with @FlyingTrowel & @Sirazulhaq-Abdul-Majid
 
 <!---
 harizzzzz/harizzzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
